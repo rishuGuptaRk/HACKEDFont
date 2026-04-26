@@ -1,0 +1,2 @@
+license: Creative Commons (by) Attribution
+link: https://www.fontspace.com/hacked-font-f28425
